@@ -1,7 +1,6 @@
 function [ uf,res ] = hillclimb( f,lap,u0 )
 
 % Erik Lamoureux
-% 21282141
 % March 1, 2016
 
 % Takes a function, time, and intitial position. Outputs a surface plot
